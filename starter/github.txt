@@ -1,12 +1,19 @@
-110. Building the Story Section - Part 1
-112. Building the Homes Section - Part 1
-114. Building the Gallery - Part 1
-116. Building the Footer
-117. Building the Sidebar
-118. Building the Header - Part 1
-120. Building the Realtors Section
-121. Writing Media Queries - Part 1
-123. Browser Support for CSS Grid
-124. Wrapping up the Nexter Project: Final Considerations
+~113. Building the Homes Section
+
+~115. Building the Gallery
+
+~116. Building the Footer
+
+~117. Building the Sidebar
+
+~119. Building the Header
+
+~120. Building the Realtors Section
+
+~122. Writing Media Queries
+
+~123. Browser Support for CSS Grid
+
+~124. Wrapping up the Nexter Project: Final Considerations
 
 
