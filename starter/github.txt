@@ -1,5 +1,4 @@
 
-~115. Building the Gallery
 
 ~116. Building the Footer
 
