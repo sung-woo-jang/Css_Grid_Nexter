@@ -1,11 +1,4 @@
 
-
-~116. Building the Footer
-
-~117. Building the Sidebar
-
-~119. Building the Header
-
 ~120. Building the Realtors Section
 
 ~122. Writing Media Queries
