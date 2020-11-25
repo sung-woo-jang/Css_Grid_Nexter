@@ -4,6 +4,5 @@
 
 ~123. Browser Support for CSS Grid
 
-~124. Wrapping up the Nexter Project: Final Considerations
 
 
